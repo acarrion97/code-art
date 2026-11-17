@@ -1,0 +1,23 @@
+# Temas usados
+
+Los temas que ya tienen video, uno por línea (fecha · tema · carpeta en salida/), para no repetirlos.
+- 2026-10-30 · Tu proyecto abierto al mundo (Lotes al Mando: comprador a distancia, mapa, recorrido virtual, cotización y tablero)
+- 2026-10-31 · Todo lo que ofrece Lotes al Mando (la plataforma entera: vitrina digital y control hasta el cobro)
+- 2026-11-04 · Serie «Con y sin Lotes al Mando», Parte 1: la ventana pública (clientes revisan lotes y ubicación sin escribir)
+- 2026-11-04 · Serie «Con y sin Lotes al Mando», Parte 2: lo que ve tu cliente en la ventana (de noche, ubicación, lotes, render, recorrido y cotización)
+- 2026-11-04 · Serie «Con y sin Lotes al Mando», Parte 3: todo el control en una sola herramienta (inventario, equipo y clientes en un tablero)
+- 2026-11-04 · Serie «Con y sin Lotes al Mando», Parte 4: dos dueños, tres meses después (cierre de la serie)
+- 2026-11-04 · Por qué tu cliente vio tu lotización y nunca te escribió (el cliente que mira por internet y se va en silencio; salida/2026-11-04-por-que-tu-cliente-vio-tu-lotizacion-y-n)
+- 2026-11-05 · Serie ISPADE «Ecuador necesita una nueva generación en IA», Parte 1: ¿qué estudio? (salida/2026-11-05-ispade-ia-parte-1-que-estudio)
+- 2026-11-05 · Serie ISPADE «Ecuador necesita una nueva generación en IA», Parte 2: qué hace un profesional en IA (salida/2026-11-05-ispade-ia-parte-2-que-hace)
+- 2026-11-05 · Serie ISPADE «Ecuador necesita una nueva generación en IA», Parte 3: qué vas a aprender (salida/2026-11-05-ispade-ia-parte-3-que-aprenderas)
+- 2026-11-05 · Serie ISPADE «Ecuador necesita una nueva generación en IA», Parte 4: 2 años, 100% online (salida/2026-11-05-ispade-ia-parte-4-dos-anos)
+- 2026-11-10 · Black Friday en Lotes al Mando: 50 % de descuento el primer mes (promo de oferta; salida/2026-11-10-black-friday-lotes-al-mando-50-de-descue)
+- 2026-11-10 · Black Friday en Lotes al Mando para corredores inmobiliarios: que tus lotes respondan solos, 50 % el primer mes (salida/2026-11-10-black-friday-lotes-al-mando-para-corredo)
+- 2026-11-10 · Corredores inmobiliarios: todas tus propiedades en un solo lugar (una vitrina por proyecto; 3 aquí, 10 allá, 5 en otro lado; salida/2026-11-10-corredores-todos-tus-proyectos-en-una-so)
+- 2026-11-12 · Miniserie «El misterio del 3, 6 y 9», 3 partes: el 3 está en todo, el 3 en la fe, pensamiento-palabra-acción (salida/2026-11-12-misterio-369-parte-*)
+- 2026-11-13 · ISPADE «Estudia cómo se me crea» (historia de la carrera de IA; salida/2026-11-13-ispade-ia-estudia-como-se-me-crea)
+- 2026-11-13 · «La historia que nos inventamos» (ficciones colectivas, tiempo y ser; Homo sapiens; salida/2026-11-13-historia-que-nos-inventamos)
+- 2026-11-13 · «El huevo que nunca se arma» (entropía; CTA: comenta ENTROPÍA y te envío el libro; salida/2026-11-13-entropia-huevo-que-nunca-se-arma)
+- 2026-11-13 · Entropía, historia 2: «Lo que dejas entrar» (filtros y caos; CTA: comenta y guarda; salida/2026-11-13-entropia-2-lo-que-dejas-entrar)
+- 2026-11-13 · «El gorila que no viste» (el cerebro construye la realidad; CTA: guarda y envíaselo; salida/2026-11-13-gorila-que-no-viste)

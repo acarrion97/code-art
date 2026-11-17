@@ -1,0 +1,13 @@
+# Secretos: nunca se suben
+.env.local
+.env
+PEGA-AQUI-TU-CLAVE-ELEVENLABS.txt
+
+# Lo pesado o hecho: los videos y proyectos ya hechos no van a la nube (solo las funciones)
+node_modules/
+proyectos/*
+!proyectos/.gitkeep
+salida/*
+!salida/.gitkeep
+**/revisar/
+.DS_Store
